@@ -210,7 +210,7 @@ public class Board extends JPanel {
         }
 
     }
-
+    @Override
     public void paint(Graphics g) {
 
         int cell = 0;
